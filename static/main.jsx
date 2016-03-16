@@ -4,7 +4,7 @@ define(function(require, exports, module) {
   module.exports = React.createClass({
     render: function() {
       return (
-        <h1>React.js FTW</h1>
+        <h3>React.js FTW</h3>
       )
     }
   })

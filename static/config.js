@@ -9,5 +9,6 @@ requirejs.config({
   },
   jsx: {
     fileExtension: ".jsx"
-  }
+  },
+  urlArgs: "bust=" + (new Date()).getTime()
 })
