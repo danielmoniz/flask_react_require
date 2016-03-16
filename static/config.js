@@ -5,10 +5,12 @@ requirejs.config({
     jsx: "vendors/jsx-requirejs-plugins/js/jsx",
     JSXTransformer: "vendors/jsx-requirejs-plugins/js/JSXTransformer",
     react: "vendors/react/react-with-addons",
-    text: "vendors/requirejs-text/text"
+    react_dom: "vendors/react/react-dom",
+    text: "vendors/requirejs-text/text",
+    more: "more"
   },
   jsx: {
-    fileExtension: ".jsx"
+    fileExtension: ".js"
   },
   urlArgs: "bust=" + (new Date()).getTime()
 })
