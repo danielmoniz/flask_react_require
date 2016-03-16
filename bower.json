@@ -1,0 +1,25 @@
+{
+  "name": "flask_react_require",
+  "version": "0.0.0",
+  "authors": [
+    "Daniel Moniz <daniel.moniz@gmail.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/static/vendors",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "requirejs": "^2.1.22",
+    "almond": "^0.3.1",
+    "jsx-requirejs-plugin": "^0.6.2"
+  }
+}

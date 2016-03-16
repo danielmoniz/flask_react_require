@@ -1,0 +1,18 @@
+{
+  "name": "flask_react_require",
+  "version": "0.0.1",
+  "keywords": [],
+  "homepage": "",
+  "author": "",
+  "dependencies": {
+    "requirejs": "^2.1.22"
+  },
+  "main": "index",
+  "engines": {
+    "node": ">= 5.8.0"
+  },
+  "scripts": {},
+  "devDependencies": {},
+  "license": "ISC",
+  "description": ""
+}
