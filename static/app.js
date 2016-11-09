@@ -1,5 +1,5 @@
 requirejs(
-	["jquery", "react", "react_dom", "jsx!main"],
+	["jquery", "react", "react-dom", "jsx!main"],
 	function($, React, ReactDOM, Main) {
 	console.log(Main);
 	console.log(Main.test);
